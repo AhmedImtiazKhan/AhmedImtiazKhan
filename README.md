@@ -6,6 +6,4 @@
 &nbsp;
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedImtiazKhan&layout=compact&theme=tokyonight&v=1" align="center"/>
 
-&nbsp;
-<img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedImtiazKhan&&theme=tokyonight&v=1"  align = "center"/>
-</p>
+
